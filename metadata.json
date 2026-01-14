@@ -1,0 +1,7 @@
+{
+  "name": "AI Insight Studio",
+  "description": "A mobile-first dashboard for latest AI news summaries and advanced image generation/editing powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
